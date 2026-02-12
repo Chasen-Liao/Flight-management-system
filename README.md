@@ -818,10 +818,6 @@ refundAmount = originalPrice - (currentTime - departureTime) * rate
 
 本项目仅供学习和研究使用。
 
----
-
-## 👨‍💻 作者
-
 Chasen-Liao
 
 ---
