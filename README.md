@@ -818,8 +818,4 @@ refundAmount = originalPrice - (currentTime - departureTime) * rate
 
 本项目仅供学习和研究使用。
 
-Chasen-Liao
-
 ---
-
-> **注意**: 本README详细记录了系统的架构设计、技术选型、数据库设计和核心功能流程，便于开发者理解和维护系统。
